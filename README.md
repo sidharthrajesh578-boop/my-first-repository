@@ -1,4 +1,3 @@
-# my-first-repository
 # My First Repository
 
 ## Data Analytics Assignment
